@@ -1,3 +1,9 @@
+30. Обчислити z = (sign(x) + sign(y))*sign(x + y), де
+sign(a) = -1, a < 0;
+sign(a) = 0, a = 0;
+sign (a) = 1, a > 0;
+
+
 #include "pch.h"
 #include <iostream>
 #include <cmath>
