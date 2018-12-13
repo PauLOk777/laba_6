@@ -1,1 +1,1 @@
-Waiting for check:)
+First programm, where i used func.
